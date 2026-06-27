@@ -184,5 +184,3 @@ PASTIS Dataset, Sentinel-2 Dataset, Crop Segmentation Dataset, Satellite Dataset
 ```
 
 ```
-
-```
