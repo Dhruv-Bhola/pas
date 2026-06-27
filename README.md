@@ -1,8 +1,3 @@
-Arey bhai, bilkul! Tumhe pure Markdown text ko ek single copy-paste karne wale **Code Block** (jo ````markdown` se suru hota hai) ke andar chahiye na, taaki saare `#`, `-`, aur spacing bina kisi formatting issue ke as-it-is copy ho sakein.
-
-Ye lo pura professional, SEO-optimized README ek hi code block mein:
-
-```markdown
 # PASTIS Dataset for Crop Segmentation | Sentinel-2 | Prithvi EO 2.0 | PyTorch | TerraTorch
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
@@ -163,23 +158,6 @@ This variant of the **PASTIS dataset** is carefully configured to slide effortle
 
 ---
 
-## 📝 Citation
-
-If you use this optimized variant of the PASTIS dataset or code structure in your research, please provide appropriate credit to the foundational PASTIS authors:
-
-```bibtex
-@article{garnot2021pastis,
-  title={Panoptic Segmentation of Satellite Image Time Series with Convolutional Recurrent Networks},
-  author={Sainte Fare Garnot, Vivien and Landrieu, Loic},
-  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={9372--9381},
-  year={2021}
-}
-
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions to enhance this loader repository are welcome! If you want to contribute (e.g., provide pre-built PyTorch training files, add visualization tutorials, or optimize loading scripts), feel free to follow these steps:
@@ -195,12 +173,6 @@ Contributions to enhance this loader repository are welcome! If you want to cont
 ## 🏆 Acknowledgements
 
 We express our gratitude to the creators of the original **PASTIS Dataset** for providing the foundational benchmark materials. Additional credit goes to the **European Space Agency (ESA) Copernicus** program for the accessible Sentinel-2 open data architecture, alongside **IBM** and **NASA** for pushing the boundaries of Earth Observation via open frameworks like **Prithvi EO 2.0** and **TerraTorch**.
-
----
-
-## 📄 License
-
-This repository is distributed under the [MIT License](https://www.google.com/search?q=LICENSE). Please review the root `LICENSE` file for details regarding rights and boundaries.
 
 ---
 
